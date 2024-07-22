@@ -1,1 +1,1 @@
-/workspace/Nexus-2.0-zkVM_2/nexus-project/target/riscv32i-unknown-none-elf/debug/nexus-project: /workspace/Nexus-2.0-zkVM_2/nexus-project/src/main.rs
+/workspace/Nexus-2.0-zkVM_2_NGS_2nd_Proof/nexus-project/target/riscv32i-unknown-none-elf/debug/nexus-project: /workspace/Nexus-2.0-zkVM_2_NGS_2nd_Proof/nexus-project/src/main.rs

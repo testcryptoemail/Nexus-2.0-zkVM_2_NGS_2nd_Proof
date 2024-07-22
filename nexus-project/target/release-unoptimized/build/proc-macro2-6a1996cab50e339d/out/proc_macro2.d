@@ -1,6 +1,6 @@
-/workspace/Nexus-2.0-zkVM_2/nexus-project/target/release-unoptimized/build/proc-macro2-6a1996cab50e339d/out/libproc_macro2.rmeta: build/probe.rs
+/workspace/Nexus-2.0-zkVM_2_NGS_2nd_Proof/nexus-project/target/release-unoptimized/build/proc-macro2-6a1996cab50e339d/out/libproc_macro2.rmeta: build/probe.rs
 
-/workspace/Nexus-2.0-zkVM_2/nexus-project/target/release-unoptimized/build/proc-macro2-6a1996cab50e339d/out/proc_macro2.d: build/probe.rs
+/workspace/Nexus-2.0-zkVM_2_NGS_2nd_Proof/nexus-project/target/release-unoptimized/build/proc-macro2-6a1996cab50e339d/out/proc_macro2.d: build/probe.rs
 
 build/probe.rs:
 
